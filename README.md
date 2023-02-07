@@ -10,6 +10,5 @@ Tus tareas consisten en:
 
 Estudiante de Informática de la Universidad de Jaén, de la asignatura Desarrollo Ágil.
 * **Correo**: jma00068@red.ujaen.es
-* **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
