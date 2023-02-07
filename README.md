@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### Jesús Manzano Álvarez
 <img src='/vrivas-2022.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Estudiante de Informática de la Universidad de Jaén, de la asignatura Desarrollo Ágil.
 * **Correo**: vrivas@ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
