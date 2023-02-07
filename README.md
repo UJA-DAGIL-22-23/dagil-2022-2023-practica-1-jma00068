@@ -9,7 +9,7 @@ Tus tareas consisten en:
 <img src='/vrivas-2022.png' width='200px'>
 
 Estudiante de Informática de la Universidad de Jaén, de la asignatura Desarrollo Ágil.
-* **Correo**: vrivas@ujaen.es
+* **Correo**: jma00068@red.ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
