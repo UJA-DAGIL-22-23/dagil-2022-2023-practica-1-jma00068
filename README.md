@@ -12,3 +12,4 @@ Estudiante de Informática de la Universidad de Jaén, de la asignatura Desarrol
 * **Correo**: jma00068@red.ujaen.es
 * **GitHub**: https://github.com/jma00068/
 * **Trello**: https://trello.com/u/jesusmanzanoalvarez/
+* **Documentación**: https://docs.google.com/document/d/1xOKj2QX8oKV5LBFGAk3n-mFxiLDJtyDE/edit?usp=sharing&ouid=114084101051646201864&rtpof=true&sd=true
